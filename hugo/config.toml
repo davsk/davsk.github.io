@@ -1,0 +1,18 @@
+publishdir = "../"
+baseurl = "http://blog.davsk.com/"
+languageCode = "en-us"
+title = "blog.davsk.com"
+SectionPagesMenu = "main"
+copyright = "2012 © davsk.com"
+
+[params]
+  author = "David Lynn Skinner"
+  photo = "images/David100x100.jpg" # optional
+  profile = "images/profile.png" # optional
+  cover = "images/cover.png" # optional
+  twitter = "SkinnerDavidL" # optional
+  github = "Comaldave" # optional
+  facebook = "david.lynn.skinner" # optional
+  gplus = "DavidSkinnerDavsk" # optional
+  linkedin = "david-skinner/46/736/793" # optional
+  #googleAnalyticsUserID = "Your Analytics User Id" # optional

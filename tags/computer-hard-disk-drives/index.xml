@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Hard Disk Drives on blog.davsk.com</title>
+    <link>http://localhost:8080/tags/computer-hard-disk-drives/</link>
+    <description>Recent content in Computer Hard Disk Drives on blog.davsk.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2012 © davsk.com</copyright>
+    <lastBuildDate>Thu, 10 Sep 2015 08:48:36 -0500</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/computer-hard-disk-drives/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rape</title>
+      <link>http://localhost:8080/forensic/rape/</link>
+      <pubDate>Thu, 10 Sep 2015 08:48:36 -0500</pubDate>
+      
+      <guid>http://localhost:8080/forensic/rape/</guid>
+      <description>
+
+&lt;h3 id=&#34;computer-forensic-tools-cannot-reveal-what-is-not-there-and-cannot-conceal-what-is-there:211ea848a43bf1477c6a04bbeae03335&#34;&gt;Computer forensic tools cannot reveal what is not there and cannot conceal what is there.&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The evidence provided consisted of duplicates of two hard disk drives, one from a laptop and one from a desktop.&lt;/p&gt;
+
+&lt;p&gt;The first step was to verify the digital signature of the discovery. Instead we determined that the evidence had been altered while in police custody.&lt;/p&gt;
+
+&lt;p&gt;The next step was to recover and identify files on the hard disk drives. The file information was transferred to a database and filtered using simple sql commands to identify potentially troublesome files and to explain why certain files were not relevant.&lt;/p&gt;
+
+&lt;p&gt;I had to testify in this case that the hard disk drive had been altered while in police custody and on cross examination I explained that the access time on a particular file selected by the prosecutor indicated that it had not been accessed or viewed on that computer.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

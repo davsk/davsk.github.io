@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Too Many Pages on blog.davsk.com</title>
+    <link>http://localhost:8080/tags/too-many-pages/</link>
+    <description>Recent content in Too Many Pages on blog.davsk.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2012 © davsk.com</copyright>
+    <lastBuildDate>Thu, 10 Sep 2015 08:49:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/too-many-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>divorce</title>
+      <link>http://localhost:8080/forensic/divorce/</link>
+      <pubDate>Thu, 10 Sep 2015 08:49:35 -0500</pubDate>
+      
+      <guid>http://localhost:8080/forensic/divorce/</guid>
+      <description>
+
+&lt;h4 id=&#34;use-the-computer-to-do-your-job-quicker-easier-and-better:48a03e2856b1506f820a3ff28e3666e6&#34;&gt;Use the computer to do your job quicker, easier, and better.&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The discovery in this case was over 2000 pages of financial information.&lt;/p&gt;
+
+&lt;p&gt;We set up a laptop computer and scanner in the library of the opposing counsel and a few hours later, all of the documents had been scanned into the computer.&lt;/p&gt;
+
+&lt;p&gt;By the following morning, the documents had been OCRed, indexed, and place on CD.&lt;/p&gt;
+
+&lt;p&gt;By the following Monday, the documents had been identified and a missing documents list had been prepared.&lt;/p&gt;
+
+&lt;p&gt;The resulting CD was then used to distribute information to financial experts.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

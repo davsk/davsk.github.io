@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Show The Jury on blog.davsk.com</title>
+    <link>http://localhost:8080/tags/show-the-jury/</link>
+    <description>Recent content in Show The Jury on blog.davsk.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2012 © davsk.com</copyright>
+    <lastBuildDate>Thu, 10 Sep 2015 08:49:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/show-the-jury/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>assault</title>
+      <link>http://localhost:8080/forensic/assault/</link>
+      <pubDate>Thu, 10 Sep 2015 08:49:05 -0500</pubDate>
+      
+      <guid>http://localhost:8080/forensic/assault/</guid>
+      <description>
+
+&lt;h4 id=&#34;scaled-computer-modeling-to-set-the-scene:bd687e1ea1391a00ebc4c72d32705509&#34;&gt;Scaled computer modeling to set the scene&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A request was made for an illustrative exhibit, a jail house door complete with cuff port.&lt;/p&gt;
+
+&lt;p&gt;I take a picture of the door and make some measurements.&lt;/p&gt;
+
+&lt;p&gt;I prepared a drawing of the door using a CAD program listing all of the dimensions.&lt;/p&gt;
+
+&lt;p&gt;I then built the lightweight wooden jailhouse door as a representational illustrative exhibit.&lt;/p&gt;
+
+&lt;p&gt;The door was then delivered to the court house on the day of trial for use by the defense attorney.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
