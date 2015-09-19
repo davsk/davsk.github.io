@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rates on blog.davsk.com</title>
-    <link>http://localhost:8080/rates/</link>
+    <link>http://blog.davsk.com/rates/</link>
     <description>Recent content in Rates on blog.davsk.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2012 © davsk.com</copyright>
     <lastBuildDate>Thu, 10 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:8080/rates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.davsk.com/rates/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Complementary Services</title>
-      <link>http://localhost:8080/rates/rt00/</link>
+      <link>http://blog.davsk.com/rates/rt00/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/rates/rt00/</guid>
+      <guid>http://blog.davsk.com/rates/rt00/</guid>
       <description>
 
 &lt;h2 id=&#34;up-to-2-hours-for-initial-interview:1cefd8b74334b4d6b7616ac9a01d181d&#34;&gt;Up to 2 hours for initial interview.&lt;/h2&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>Compliance with Gramm-Leach-Bliley Act</title>
-      <link>http://localhost:8080/rates/rt30/</link>
+      <link>http://blog.davsk.com/rates/rt30/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/rates/rt30/</guid>
+      <guid>http://blog.davsk.com/rates/rt30/</guid>
       <description>
 
 &lt;h3 id=&#34;lower-of-actual-cost-or-lumpsum:ee79cd173c81a6c15704092515dba805&#34;&gt;Lower of actual cost or lumpsum&lt;/h3&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Daily Onsite Rate</title>
-      <link>http://localhost:8080/rates/rt50/</link>
+      <link>http://blog.davsk.com/rates/rt50/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/rates/rt50/</guid>
+      <guid>http://blog.davsk.com/rates/rt50/</guid>
       <description>
 
 &lt;h3 id=&#34;8-hours-used-within-30-days:bc99151f3225b2a264e8ef40367530f8&#34;&gt;8 Hours used within 30 days.&lt;/h3&gt;
@@ -64,10 +64,10 @@
     
     <item>
       <title>Hourly Onsite Rate</title>
-      <link>http://localhost:8080/rates/rt60/</link>
+      <link>http://blog.davsk.com/rates/rt60/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/rates/rt60/</guid>
+      <guid>http://blog.davsk.com/rates/rt60/</guid>
       <description>
 
 &lt;h3 id=&#34;two-hour-minimum:bd42cd09da582cf00ba8b014f82e3059&#34;&gt;Two Hour Minimum.&lt;/h3&gt;
@@ -78,10 +78,10 @@
     
     <item>
       <title>Public Defender Commission</title>
-      <link>http://localhost:8080/rates/rt45pdc/</link>
+      <link>http://blog.davsk.com/rates/rt45pdc/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/rates/rt45pdc/</guid>
+      <guid>http://blog.davsk.com/rates/rt45pdc/</guid>
       <description>
 
 &lt;h3 id=&#34;rates-for-expert-services-consultation-training-evidentiary-exhibits-illustrative-exhibits:588baf66b014af61e29a44de3c5ab982&#34;&gt;Rates for expert services, consultation, training, evidentiary exhibits, illustrative exhibits.&lt;/h3&gt;
@@ -92,10 +92,10 @@
     
     <item>
       <title>Weekly Onsite Rate</title>
-      <link>http://localhost:8080/rates/rt45/</link>
+      <link>http://blog.davsk.com/rates/rt45/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/rates/rt45/</guid>
+      <guid>http://blog.davsk.com/rates/rt45/</guid>
       <description>
 
 &lt;h3 id=&#34;40-hours-used-within-one-year:15e3bf145380e1fb8440fc87579b7464&#34;&gt;40 Hours used within one year.&lt;/h3&gt;

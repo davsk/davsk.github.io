@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Legals on blog.davsk.com</title>
-    <link>http://localhost:8080/legal/</link>
+    <link>http://blog.davsk.com/legal/</link>
     <description>Recent content in Legals on blog.davsk.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2012 © davsk.com</copyright>
     <lastBuildDate>Thu, 10 Sep 2015 08:51:46 -0500</lastBuildDate>
-    <atom:link href="http://localhost:8080/legal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.davsk.com/legal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>privacy</title>
-      <link>http://localhost:8080/legal/privacy/</link>
+      <link>http://blog.davsk.com/legal/privacy/</link>
       <pubDate>Thu, 10 Sep 2015 08:51:46 -0500</pubDate>
       
-      <guid>http://localhost:8080/legal/privacy/</guid>
+      <guid>http://blog.davsk.com/legal/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>disclaimer</title>
-      <link>http://localhost:8080/legal/disclaimer/</link>
+      <link>http://blog.davsk.com/legal/disclaimer/</link>
       <pubDate>Thu, 10 Sep 2015 08:51:16 -0500</pubDate>
       
-      <guid>http://localhost:8080/legal/disclaimer/</guid>
+      <guid>http://blog.davsk.com/legal/disclaimer/</guid>
       <description></description>
     </item>
     

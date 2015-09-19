@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:8080/</loc>
+    <loc>http://blog.davsk.com/</loc>
     <lastmod>2015-09-10T08:57:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8080/post/first/</loc>
+    <loc>http://blog.davsk.com/post/first/</loc>
     <lastmod>2015-09-10T08:57:01-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/glbcompliance/</loc>
+    <loc>http://blog.davsk.com/glbcompliance/</loc>
     <lastmod>2015-09-10T08:52:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/legal/privacy/</loc>
+    <loc>http://blog.davsk.com/legal/privacy/</loc>
     <lastmod>2015-09-10T08:51:46-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/legal/disclaimer/</loc>
+    <loc>http://blog.davsk.com/legal/disclaimer/</loc>
     <lastmod>2015-09-10T08:51:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/forensic/warrantee/</loc>
+    <loc>http://blog.davsk.com/forensic/warrantee/</loc>
     <lastmod>2015-09-10T08:50:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/forensic/custody/</loc>
+    <loc>http://blog.davsk.com/forensic/custody/</loc>
     <lastmod>2015-09-10T08:50:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/forensic/divorce/</loc>
+    <loc>http://blog.davsk.com/forensic/divorce/</loc>
     <lastmod>2015-09-10T08:49:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/forensic/assault/</loc>
+    <loc>http://blog.davsk.com/forensic/assault/</loc>
     <lastmod>2015-09-10T08:49:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/forensic/rape/</loc>
+    <loc>http://blog.davsk.com/forensic/rape/</loc>
     <lastmod>2015-09-10T08:48:36-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/forensic/murder/</loc>
+    <loc>http://blog.davsk.com/forensic/murder/</loc>
     <lastmod>2015-09-10T08:48:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/about/</loc>
+    <loc>http://blog.davsk.com/about/</loc>
     <lastmod>2015-09-09T21:23:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/rates/rt00/</loc>
+    <loc>http://blog.davsk.com/rates/rt00/</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/rates/rt30/</loc>
+    <loc>http://blog.davsk.com/rates/rt30/</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/rates/rt50/</loc>
+    <loc>http://blog.davsk.com/rates/rt50/</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/rates/rt60/</loc>
+    <loc>http://blog.davsk.com/rates/rt60/</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/rates/rt45pdc/</loc>
+    <loc>http://blog.davsk.com/rates/rt45pdc/</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/rates/rt45/</loc>
+    <loc>http://blog.davsk.com/rates/rt45/</loc>
     <lastmod>2015-09-10T00:00:00+00:00</lastmod>
   </url>
   
