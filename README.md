@@ -1,2 +1,2 @@
 # davsk.github.io
-blog
+dev.davsk.net
